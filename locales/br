@@ -1,0 +1,16 @@
+Locales['br'] = {
+  ['press_to_chop'] = "~INPUT_CONTEXT~ para desmanchar o veículo",
+  ['map_blip'] = "Chop Shop",
+  ['map_blip_shop'] = "Stanley's Ferro velho",
+  ['no_vehicle'] = "Deve estar em um veículo para desmanchar.",
+  ['open_shop'] = "~INPUT_CONTEXT~ para vender ~y~peças~s~.",
+  ['sold'] = "Você já vendeu ~b~%sx~s~ ~y~%s~s~ por ~g~$%s~s~",
+  ['not_enough'] = 'Você não tem o suficiente para vender!',
+  ['shop_prompt'] = '~INPUT_CONTEXT~ para falar com ~r~Stanley~s~.',
+  ['item'] = '$%s',
+  ['shop_title'] = 'Stanley\'s Ferro velho',
+  ['cooldown'] = '~s~Você tem que ~g~aguardar ~r~%s segundos ~s~antes que você possa ~g~desmanchar ~s~outro veiculo.',
+  ['call'] = 'Alguém está cortando um veículo. Anexei uma foto da pessoa',
+  ['911'] = '190 Copom',
+  ['chop'] = 'Desmache de Veículos',
+}
